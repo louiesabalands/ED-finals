@@ -47,8 +47,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "5591ee21-36d7-4b3e-ae03-42fb46c5fbb4"
+        "projectId": "a97ce24a-a056-4320-94d9-3c4999d96e02"
       }
-    }
+    },
+    "owner": "louiesabalande"
   }
 }
